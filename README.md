@@ -1,2 +1,2 @@
 # PMX
-Trabajo para la plataforma emtech, aprendizake de HTML y GitHub
+Trabajo para la plataforma emtech, aprendizaje de HTML y GitHub
